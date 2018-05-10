@@ -1,0 +1,27 @@
+{
+  "bugs": {
+    "url": "https://github.com/imcmy/hexo-generator-type2/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hexo-pagination": "^0.1.0"
+  },
+  "deprecated": false,
+  "description": "Fix bug in hexo-generator-type",
+  "homepage": "https://github.com/imcmy/hexo-generator-type2#readme",
+  "keywords": [
+    "hexo",
+    "generator",
+    "type",
+    "custom"
+  ],
+  "license": "CC-BY-4.0",
+  "main": "index.js",
+  "name": "hexo-generator-type2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcmy/hexo-generator-type2.git"
+  },
+  "version": "0.1.4",
+  "author": "callmelanmo & imcmy"
+}
